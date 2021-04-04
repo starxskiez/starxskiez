@@ -1,3 +1,6 @@
+![Lexi Li | Avid Programmer](https://user-images.githubusercontent.com/67660291/113518245-eace5f80-9539-11eb-89a8-63403e0e4c67.png)  
+
+
 ### Hi there 👋
 
 #### Glad to see you here.
