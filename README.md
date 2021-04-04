@@ -15,7 +15,6 @@ I'm Lexi Li, a programmer trying to master Python, my favorite programming langu
 - 📫 You can reach me on [my repl.it account](https://replit.com/@lexili/).
 - ⚡ Fun fact: You can do anything.
 
-<!-- GitHub stats -->  
 <b>⚡ Github Stats</b>
 
 <p>  
